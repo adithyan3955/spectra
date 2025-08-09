@@ -1,0 +1,2 @@
+# spectra
+That’s where Spectra comes in. Spectra is an AI-powered vision system that tracks how many people look at a billboard and for how long — specifically counting only those who look for at least five seconds.  Using just a phone camera and our custom detection software, Spectra runs in real time, detecting faces, estimating head direction, and timing attention without storing personal data.  With Spectra, advertisers and brands can finally measure true audience engagement, not just foot traffic — all with low-cost, accessible technology.
